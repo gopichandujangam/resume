@@ -1,4 +1,4 @@
-# Resume
+
 # GOPICHANDU JANGAM
 ### Personal details
 - Name : GOPICHANDU JANGAM <br>
