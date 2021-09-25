@@ -3,7 +3,7 @@
 ### Personal details
 - Name : GOPICHANDU JANGAM <br>
 - Mailid : j.gopichandu457@gmail.com
-- Phone :+91 9874651230
+- Phone :+91 9618395167
 - Address : Guntur
 ### Educational Details
 **B.Tech**
@@ -25,8 +25,9 @@
 - Percentage : 69% <br>
  
 ## Skills
-- C programming
-- Java
+- HTML
+- CSS
+- Java Script
 - Python
 - Github <br>
 
@@ -38,3 +39,4 @@
 ***Hobbies***
 - Surfing Internet
 - Listening Music
+- Watching Web Series
